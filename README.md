@@ -1,4 +1,4 @@
-# go-challenge-zero
+# go-challenge-one
 
 Go to print the sum of smallest and largest number  present in the array.
 
